@@ -6,3 +6,5 @@
 5-listfilesdigitonly script will display user and groups that contents belong to as numbers.
 6-firstdirectory script will create a directory in a /tmp directory.
 7-movethatfile script will move betty file from /tmp.
+8-firstdelete script will delet betty file in /tmp/my_first_directory
+
