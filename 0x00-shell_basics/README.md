@@ -3,3 +3,5 @@
 2-bring_me_home script will change directory from the current one to home directory.
 3-listfiles Script will display the contents in a current working directory in a long listing format.
 4-listmorefiles script will display the content together with hidden files in the cwd.
+5-listfilesdigitonly script will display user and groups that contents belong to as numbers.
+
