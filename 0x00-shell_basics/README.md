@@ -5,3 +5,4 @@
 4-listmorefiles script will display the content together with hidden files in the cwd.
 5-listfilesdigitonly script will display user and groups that contents belong to as numbers.
 6-firstdirectory script will create a directory in a /tmp directory.
+7-movethatfile script will move betty file from /tmp.
