@@ -16,3 +16,4 @@
 100-lets_move script will move files to /tmp/u directory
 101-clean_emacsdelete emacs files that ends with ~.
 102-treescript will a relative directory tree.
+103-commas scrit will display directory files separated by coma.
