@@ -11,4 +11,5 @@
 10-back will change from current working directory to previous directory.
 11-lists script will list the contents in three directories.
 12-file_type will the type iamafile in /tmp
+13-symbolic_link script will create a sym link 
 
