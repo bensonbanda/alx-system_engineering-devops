@@ -9,4 +9,5 @@
 8-firstdelete script will delet betty file in /tmp/my_first_directory
 9-firstdirdeletion will delete  my_first_directory in /tmp
 10-back will change from current working directory to previous directory.
+11-lists script will list the contents in three directories.
 
