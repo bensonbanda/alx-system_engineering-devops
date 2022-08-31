@@ -17,3 +17,5 @@
 101-clean_emacsdelete emacs files that ends with ~.
 102-treescript will a relative directory tree.
 103-commas scrit will display directory files separated by coma.
+school.mgc will display directory contents according to indicated data tables.
+
