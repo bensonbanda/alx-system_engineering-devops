@@ -14,4 +14,4 @@
 13-symbolic_link script will create a sym link 
 14-copy_html will copy the html files.
 100-lets_move script will move files to /tmp/u directory
-
+101-clean_emacsdelete emacs files that ends with ~.
