@@ -13,3 +13,5 @@
 12-file_type will the type iamafile in /tmp
 13-symbolic_link script will create a sym link 
 14-copy_html will copy the html files.
+100-lets_move script will move files to /tmp/u directory
+
