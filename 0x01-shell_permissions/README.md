@@ -13,3 +13,4 @@
 11-directories_permissions scritp will change permissions of the current subdirectories only.
 12-directory_permissions create dir with 751 permissions.
 13-change_groupscript will change group ownership to school.
+101-symbolic_link_permissions will change the files's owner and group owner.
