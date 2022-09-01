@@ -14,3 +14,4 @@
 12-directory_permissions create dir with 751 permissions.
 13-change_groupscript will change group ownership to school.
 101-symbolic_link_permissions will change the files's owner and group owner.
+102-if_only script will change file ownership to betty only if owned by guillaume.
