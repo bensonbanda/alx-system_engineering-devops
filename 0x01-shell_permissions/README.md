@@ -12,3 +12,4 @@
 10-mirror_permissions script will copy file permission of one file to another file.
 11-directories_permissions scritp will change permissions of the current subdirectories only.
 12-directory_permissions create dir with 751 permissions.
+13-change_groupscript will change group ownership to school.
