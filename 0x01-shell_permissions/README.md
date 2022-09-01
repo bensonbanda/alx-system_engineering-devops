@@ -5,3 +5,4 @@
 3-new_owner script will the files ownership 
 4-empty script will create a hello empty file.
 5-execute script will make a hello executabel.
+6-multiple_permissions script will add execution permission to owner and groups only
