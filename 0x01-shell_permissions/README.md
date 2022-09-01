@@ -6,3 +6,4 @@
 4-empty script will create a hello empty file.
 5-execute script will make a hello executabel.
 6-multiple_permissions script will add execution permission to owner and groups only
+7-everybody script will add execution to owner,groups and every user.
