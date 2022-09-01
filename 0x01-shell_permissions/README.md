@@ -10,3 +10,4 @@
 8-James_Bond script will all the permission to other users except for owners and group users.
 9-John_Doe will create file permission
 10-mirror_permissions script will copy file permission of one file to another file.
+11-directories_permissions scritp will change permissions of the current subdirectories only.
