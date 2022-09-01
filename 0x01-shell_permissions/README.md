@@ -13,6 +13,7 @@
 11-directories_permissions scritp will change permissions of the current subdirectories only.
 12-directory_permissions create dir with 751 permissions.
 13-change_groupscript will change group ownership to school.
+100-change_owner_and_group will change the owner and group ofall the files in cwd.
 101-symbolic_link_permissions will change the files's owner and group owner.
 102-if_only script will change file ownership to betty only if owned by guillaume.
 103-Star_Wars script will create star wars on terminal.
