@@ -8,3 +8,4 @@
 6-multiple_permissions script will add execution permission to owner and groups only
 7-everybody script will add execution to owner,groups and every user.
 8-James_Bond script will all the permission to other users except for owners and group users.
+9-John_Doe will create file permission
