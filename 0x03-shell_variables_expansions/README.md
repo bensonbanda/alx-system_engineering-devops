@@ -12,4 +12,5 @@
 1-binary_to_decimal will convert binary number to decimal
 12-combinations will dsiplay all possibel combination from  a -z
 13-print_float will number with two decimal places
+100-decimal_to_hexadecimal will convert decimal to hex value
 
