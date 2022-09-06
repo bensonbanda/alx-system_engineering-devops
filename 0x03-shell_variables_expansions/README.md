@@ -14,4 +14,5 @@
 13-print_float will number with two decimal places
 100-decimal_to_hexadecimal will convert decimal to hex value
 101-rot13 script will replace each alphabetic letter with the next 13 th letter
+102-odd script that prints every other line from the input, starting with the first line.
 
