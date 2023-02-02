@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#test network connection
+
+ipaddress = $1
+
+[ $# -eq 0 ] && { echo "Usage: $0 {IP_ADDRESS}"; exit 1; }
+
+ping $ipaddress -c 5
+
