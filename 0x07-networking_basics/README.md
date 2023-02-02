@@ -1,2 +1,1 @@
-#NETWORK BASICS..........
-
+The shell basics.
