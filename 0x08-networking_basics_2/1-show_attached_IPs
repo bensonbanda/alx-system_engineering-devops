@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#show active ipv4 addresses
+
+hostname -i
