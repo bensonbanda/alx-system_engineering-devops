@@ -2,6 +2,6 @@
 #change the domain resolvation of localhost and facebook
 
 cp /etc/hosts ~/hosts.new
-echo "127.0.0.1"	localhost > ~/hosts.new
-echo "8.8.8.8"		facebook.com >> ~/hosts.new
+echo "127.0.0.1		localhost" > ~/hosts.new
+echo "8.8.8.8		facebook.com" >> ~/hosts.new
 cp -f ~/hosts.new /etc/hosts
