@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 #show active ipv4 addresses
 
-hostname -i
+#show ip addresses with ip command
+
+ip -4 -o addr show | awk '{print $4}' | cut -d "/" -f 1
