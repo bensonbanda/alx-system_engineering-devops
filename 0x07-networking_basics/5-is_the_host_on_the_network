@@ -1,8 +1,14 @@
 #!/usr/bin/env bash
 #test network connection
 
-ipaddress=$1
+#ip address
+IP="${1}"
 
-[ $# -eq 0 ] && { echo "Usage: $0 {IP_ADDRESS}"; exit 1; }
+#filename 
+fn=$(basename "${BASH_SOURCE[@]}")
 
-ping $ipaddress -c 5
+if ! [ "$IP" ]; then
+	echo "Usage: ${fn} {IP_ADDRESS}"
+else
+	ping -c 5 "${IP}"
+fi
